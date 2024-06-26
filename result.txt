@@ -1,0 +1,4 @@
+this demo file
+:wq
+:q
+exit
